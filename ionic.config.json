@@ -1,0 +1,7 @@
+{
+  "name": "Amritvani",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
